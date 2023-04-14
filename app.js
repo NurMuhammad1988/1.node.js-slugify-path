@@ -21,3 +21,42 @@
 
 // module.exports.num = num;
 
+// let name1 = 'Nurmuhammad';
+// let age = 35;
+// let kasbi = 'santexnik'
+
+// console.log (name1 + age + kasbi);
+
+
+
+
+// const person = {
+//     name: 'nurik',
+//     age: 70,
+//     lastname: 'nurikkkk'
+// }
+
+// module.exports = person;
+
+
+
+// module.exports  =  person.age;
+
+
+// function num(a, b) {
+//     return a + b
+// }
+
+// module.exports.num = num;
+
+
+
+
+
+
+
+
+
+
+
+
