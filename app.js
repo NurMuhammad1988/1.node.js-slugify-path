@@ -1,4 +1,3 @@
-
 // let name1 = 'Nurmuhammad';
 // let name2 = 'Yorov';
 // let age1 = 35;
@@ -72,16 +71,9 @@
 
 // module.exports.num2 = num;
 
-const path = require('path');
+// const path = require('path');
 
 // console.log(__filename);
 // console.log(path.dirname(__filename));
 // console.log(path.extname(__filename));
-console.log(path.join(__dirname, 'js1dars'));
-
-
-
-
-
-
-
+// console.log(path.join(__dirname, 'js1dars'));

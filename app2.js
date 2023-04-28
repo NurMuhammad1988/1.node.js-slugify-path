@@ -82,3 +82,25 @@
 
 //     console.log(user);
 // })      
+
+// const slugify = require('slugify');
+
+// const text = 'hello jizzax samarqand toshkent andijon';
+
+// const slud = slugify(text, '   +   ');
+
+// // console.log(slugify(text));
+
+// console.log(slud);
+
+const resizable = require('re-resizable');
+
+
+<Resizable
+    defaultSize={{
+        width: 320,
+        height: 200,
+    }}
+>
+    Sample with default size
+</Resizable>
