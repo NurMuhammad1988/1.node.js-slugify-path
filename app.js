@@ -51,8 +51,33 @@
 
 
 
+// let name2 = 'nur';
+// let age = 23;
+// console.log(name2 + age)
 
 
+// const person = {
+//     name:'kisa',
+//     age:50,
+//     lastname:'nurov'
+// }
+
+// module.exports = person;
+// module.exports = person.age; 
+
+
+// function num (a,b){
+//     return a + b
+// }
+
+// module.exports.num2 = num;
+
+const path = require('path');
+
+// console.log(__filename);
+// console.log(path.dirname(__filename));
+// console.log(path.extname(__filename));
+console.log(path.join(__dirname, 'js1dars'));
 
 
 

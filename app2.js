@@ -59,14 +59,26 @@
 
 // console.log(path.join(__dirname, 'test', 'index.html'));
 
-const slugify = require('slugify');
+// const slugify = require('slugify');
 
-const text = 'Hello Jizzax  salom jizzah  salom toshkent salom  buni orasiga hohlagan belgini qo`yish mumkun';
+// const text = 'Hello Jizzax  salom jizzah  salom toshkent salom  buni orasiga hohlagan belgini qo`yish mumkun';
 
 
 
-const slud = slugify(text, '++++' );//hohlagan belgini qo'yish mumkun
+// const slud = slugify(text, '++++' );//hohlagan belgini qo'yish mumkun
 
-console.log(slud);
+// console.log(slud);
 
 // console.log(slugify(text));
+
+
+// const user = require('./app.js');
+
+// console.log(user);
+
+
+// (function (modul, exports, require) {
+//     const user = require('./app.js');
+
+//     console.log(user);
+// })      
